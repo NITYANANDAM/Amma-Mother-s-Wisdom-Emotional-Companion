@@ -1,0 +1,6 @@
+{
+  "name": "Amma: Mother's Wisdom & Emotional Companion",
+  "description": "An AI mobile companion that thinks like a loving mother, well-wisher, and trusted friend—offering deep-thinking wisdom, daily caring reminders, Google-grounded answers, and compassionate emotional guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
